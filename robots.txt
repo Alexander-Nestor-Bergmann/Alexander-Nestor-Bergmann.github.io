@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexander-nestor-bergmann.github.io/sitemap.xml

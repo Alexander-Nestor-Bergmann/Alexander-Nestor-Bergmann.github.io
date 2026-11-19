@@ -1,0 +1,1018 @@
+{
+ "about-placard": {
+  "w": 1200,
+  "h": 1600,
+  "kind": "paper",
+  "alt": "Alexander Nestor-Bergmann. Scientist, mathematician and engineer, working on quantitative research, machine learning and AI. Currently: CTO and co-founder of Unsigned Research, a systematic trading firm. Previously: Research Fellow at the University of Cambridge. PhD, Biological Mathematics, University of Manchester."
+ },
+ "desk-main": {
+  "w": 1920,
+  "h": 1080,
+  "kind": "screen",
+  "alt": "Current work at Unsigned Research. Machine learning, statistics and AI agents for a systematic trading firm. Agentic systems: agents and the harnesses and tools they run on. Models: tested out of sample before use. Trading systems: execution, operational controls and reporting. Roles: Unsigned Research, 2022 to now; University of Cambridge, 2018 to 2022; University of Queensland, 2017 to 2018; University of Manchester, Masters 2013 and PhD 2017."
+ },
+ "desk-nameplate": {
+  "w": 1250,
+  "h": 250,
+  "kind": "card",
+  "alt": "Alexander Nestor-Bergmann."
+ },
+ "desk-sign": {
+  "w": 2310,
+  "h": 330,
+  "kind": "card",
+  "alt": "Unsigned Research.",
+  "transparent": true,
+  "logo": "placeholder"
+ },
+ "papers-cover-01": {
+  "w": 640,
+  "h": 896,
+  "kind": "paper",
+  "alt": "Polarised cell intercalation during Drosophila axis extension is robust to an orthogonal pull by the invaginating mesoderm. PLOS Biology, 2024.",
+  "item": "papers-01",
+  "detail": "detail-papers-01",
+  "source": "lye-2024-plos-biology"
+ },
+ "papers-cover-02": {
+  "w": 640,
+  "h": 896,
+  "kind": "paper",
+  "alt": "Adhesion-regulated junction slippage controls cell intercalation dynamics in an Apposed-Cortex Adhesion Model. PLOS Comput. Biol., 2022.",
+  "item": "papers-02",
+  "detail": "detail-papers-02",
+  "source": "nestor-bergmann-2022-plos-comp-biol"
+ },
+ "papers-cover-03": {
+  "w": 640,
+  "h": 896,
+  "kind": "paper",
+  "alt": "Generation of anisotropic strain dysregulates wild-type cell division at the interface between host and oncogenic tissue. Current Biology, 2021.",
+  "item": "papers-03",
+  "detail": "detail-papers-03",
+  "source": "moruzzi-2021-current-biology"
+ },
+ "papers-cover-04": {
+  "w": 640,
+  "h": 896,
+  "kind": "paper",
+  "alt": "Decoupling the Roles of Cell Shape and Mechanical Stress in Orienting and Cueing Epithelial Mitosis. Cell Reports, 2019.",
+  "item": "papers-04",
+  "detail": "detail-papers-04",
+  "source": "nestor-bergmann-2019-cell-reports"
+ },
+ "papers-cover-05": {
+  "w": 640,
+  "h": 896,
+  "kind": "paper",
+  "alt": "The tricellular vertex-specific adhesion molecule Sidekick facilitates polarised cell intercalation during Drosophila axis extension. PLOS Biology, 2019.",
+  "item": "papers-05",
+  "detail": "detail-papers-05",
+  "source": "finegan-2019-plos-biology"
+ },
+ "papers-cover-06": {
+  "w": 640,
+  "h": 896,
+  "kind": "paper",
+  "alt": "A Mechanosensitive RhoA Pathway that Protects Epithelia against Acute Tensile Stress. Developmental Cell, 2018.",
+  "item": "papers-06",
+  "detail": "detail-papers-06",
+  "source": "acharya-2018-developmental-cell"
+ },
+ "papers-cover-07": {
+  "w": 640,
+  "h": 896,
+  "kind": "paper",
+  "alt": "Mechanical characterization of disordered and anisotropic cellular monolayers. Physical Review E, 2018.",
+  "item": "papers-07",
+  "detail": "detail-papers-07",
+  "source": "nestor-bergmann-2018-phys-rev-e"
+ },
+ "papers-cover-08": {
+  "w": 640,
+  "h": 896,
+  "kind": "paper",
+  "alt": "Relating cell shape and mechanical stress in a spatially disordered epithelium using a vertex-based model. Math. Med. Biol., 2018.",
+  "item": "papers-08",
+  "detail": "detail-papers-08",
+  "source": "nestor-bergmann-2018-math-med-biol"
+ },
+ "papers-cover-09": {
+  "w": 640,
+  "h": 896,
+  "kind": "paper",
+  "alt": "Force and the spindle: Mechanical cues in mitotic spindle orientation. Semin. Cell Dev. Biol., 2014.",
+  "item": "papers-09",
+  "detail": "detail-papers-09",
+  "source": "nestor-bergmann-2014-semin-cell-dev-biol"
+ },
+ "papers-cover-10": {
+  "w": 640,
+  "h": 896,
+  "kind": "paper",
+  "alt": "Relating cell shape, mechanical stress and cell division in epithelial tissues. PhD thesis, University of Manchester, 2018.",
+  "item": "papers-10",
+  "detail": "detail-papers-10",
+  "source": "nestor-bergmann-2018-thesis"
+ },
+ "talks-cover-1": {
+  "w": 600,
+  "h": 800,
+  "kind": "paper",
+  "alt": "Slides: Mechanical Characterisation of Disordered and Anisotropic Cellular Monolayers. British Applied Mathematics Colloquium 2019, University of Bath, April 2019.",
+  "item": "talks-1",
+  "detail": "detail-talks-1"
+ },
+ "talks-cover-2": {
+  "w": 600,
+  "h": 800,
+  "kind": "paper",
+  "alt": "Slides: Stress and Disorder in a Confluent Epithelium. Mathematical Biology programme, Institut Mittag-Leffler, Djursholm, Sweden, November 2018.",
+  "item": "talks-2",
+  "detail": "detail-talks-2"
+ },
+ "talks-cover-3": {
+  "w": 600,
+  "h": 800,
+  "kind": "paper",
+  "alt": "Slides: Shape, Stress and Division in Epithelia. University of Queensland, Australia, November 2017.",
+  "item": "talks-3",
+  "detail": "detail-talks-3"
+ },
+ "code-spine-1": {
+  "w": 240,
+  "h": 960,
+  "kind": "paper",
+  "alt": "Box file 1: AI MCP server (agents-mcp-demo).",
+  "item": "code-1",
+  "detail": "detail-code-1"
+ },
+ "code-spine-2": {
+  "w": 240,
+  "h": 960,
+  "kind": "paper",
+  "alt": "Box file 2: AI research assistant (ai-deep-research-assistant).",
+  "item": "code-2",
+  "detail": "detail-code-2"
+ },
+ "code-spine-3": {
+  "w": 240,
+  "h": 960,
+  "kind": "paper",
+  "alt": "Box file 3: Fine-tuned LLM classifier (hugging-face-llm-classifier).",
+  "item": "code-3",
+  "detail": "detail-code-3"
+ },
+ "code-spine-4": {
+  "w": 240,
+  "h": 960,
+  "kind": "paper",
+  "alt": "Box file 4: Transformer from scratch (pytorch-transformer-demo).",
+  "item": "code-4",
+  "detail": "detail-code-4"
+ },
+ "code-spine-5": {
+  "w": 240,
+  "h": 960,
+  "kind": "paper",
+  "alt": "Box file 5: Cell mechanics model (appcom).",
+  "item": "code-5",
+  "detail": "detail-code-5"
+ },
+ "whiteboard": {
+  "w": 2800,
+  "h": 1324,
+  "kind": "board",
+  "alt": "A whiteboard written on by hand. Left, the vertex model of an epithelium: the energy of the cell sheet, a line completing the square, the effective pressure of a cell (boxed, with a note that positive means tension), the force on a vertex beside a sketch of one cell, and a sketch of two neighbouring cell cortices joined by adhesions and slipping past each other. Right, portfolio theory: the linear factor model and the factor risk model, the fundamental law of active management (boxed), least squares for the factor returns, the mean-variance optimal active portfolio worked from its first-order condition, and a sketch of the efficient frontier with the tangent from the risk-free rate."
+ },
+ "embryo-plaque": {
+  "w": 1200,
+  "h": 600,
+  "kind": "card",
+  "alt": "Tissue simulation. A sheet of cells on a fruit-fly embryo, undergoing convergent extension. Each cell is coloured by its pressure, from compression (cool teal) through zero (pale) to tension (warm amber). Drag to turn it, and click a cell to ablate it."
+ },
+ "cells-plaque": {
+  "w": 1200,
+  "h": 600,
+  "kind": "card",
+  "alt": "Cell simulation. A simulation of cell intercalation via junction contraction. Each cell has its own cortex, held to its neighbours by adhesions. Click a junction to make it contract."
+ },
+ "interest-1": {
+  "w": 720,
+  "h": 720,
+  "kind": "card",
+  "alt": "Statistics: Statistical modelling and inference for noisy data.."
+ },
+ "interest-2": {
+  "w": 720,
+  "h": 720,
+  "kind": "card",
+  "alt": "Machine Learning: Forecasting models, from linear models to deep networks.."
+ },
+ "interest-3": {
+  "w": 720,
+  "h": 720,
+  "kind": "card",
+  "alt": "Agentic AI and LLMs: Building AI agents, and training and fine-tuning language models.."
+ },
+ "interest-4": {
+  "w": 720,
+  "h": 720,
+  "kind": "card",
+  "alt": "Quantitative Research: Finding and testing predictive signals in financial markets.."
+ },
+ "interest-5": {
+  "w": 720,
+  "h": 720,
+  "kind": "card",
+  "alt": "Production Trading Systems: The infrastructure that runs our models and trades live.."
+ },
+ "interest-6": {
+  "w": 720,
+  "h": 720,
+  "kind": "card",
+  "alt": "Computational Biology: Mathematical models of how cells and tissues take shape.."
+ },
+ "contact-card-1": {
+  "w": 750,
+  "h": 500,
+  "kind": "card",
+  "alt": "LinkedIn: Get in touch. linkedin.com.",
+  "hotspots": [
+   {
+    "href": "https://www.linkedin.com/in/alexander-nestor-bergmann-07462132/",
+    "label": "LinkedIn",
+    "rect": [
+     0,
+     0,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ "contact-card-2": {
+  "w": 750,
+  "h": 500,
+  "kind": "card",
+  "alt": "GitHub: Code. github.com.",
+  "hotspots": [
+   {
+    "href": "https://github.com/Alexander-Nestor-Bergmann",
+    "label": "GitHub",
+    "rect": [
+     0,
+     0,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ "contact-card-3": {
+  "w": 750,
+  "h": 500,
+  "kind": "card",
+  "alt": "Google Scholar: Papers. scholar.google.co.uk.",
+  "hotspots": [
+   {
+    "href": "https://scholar.google.co.uk/citations?user=3VW9qbUAAAAJ",
+    "label": "Google Scholar",
+    "rect": [
+     0,
+     0,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ "contact-card-4": {
+  "w": 750,
+  "h": 500,
+  "kind": "card",
+  "alt": "Unsigned Research: My firm. unsigned-research.com.",
+  "hotspots": [
+   {
+    "href": "https://unsigned-research.com/",
+    "label": "Unsigned Research",
+    "rect": [
+     0,
+     0,
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ "detail-papers-01": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Polarised cell intercalation during Drosophila axis extension is robust to an orthogonal pull by the invaginating mesoderm. Claire M. Lye, Guy B. Blanchard, Jenny Evans, Alexander Nestor-Bergmann, Bénédicte Sanson. PLOS Biology, 2024. In the fruit-fly embryo the germband extends along the body axis while the mesoderm, folding in next to it, pulls on it at right angles. We show that the cell rearrangements driving extension carry on despite this pull, which instead slows how fast the cells lengthen along the axis.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1371/journal.pbio.3002611",
+    "label": "Polarised cell intercalation during Drosophila axis extension is robust to an orthogonal pull by the invaginating mesoderm (DOI)",
+    "rect": [
+     0.0693,
+     0.8384,
+     0.3506,
+     0.0816
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-papers-01-p"
+ },
+ "detail-papers-01-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Polarised cell intercalation during Drosophila axis extension is robust to an orthogonal pull by the invaginating mesoderm. Claire M. Lye, Guy B. Blanchard, Jenny Evans, Alexander Nestor-Bergmann, Bénédicte Sanson. PLOS Biology, 2024. In the fruit-fly embryo the germband extends along the body axis while the mesoderm, folding in next to it, pulls on it at right angles. We show that the cell rearrangements driving extension carry on despite this pull, which instead slows how fast the cells lengthen along the axis.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1371/journal.pbio.3002611",
+    "label": "Polarised cell intercalation during Drosophila axis extension is robust to an orthogonal pull by the invaginating mesoderm (DOI)",
+    "rect": [
+     0.08,
+     0.9029,
+     0.7088,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-papers-02": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Adhesion-regulated junction slippage controls cell intercalation dynamics in an Apposed-Cortex Adhesion Model. Alexander Nestor-Bergmann, Guy B. Blanchard, Nathan Hervieux, Alexander G. Fletcher, Jocelyn Étienne, Bénédicte Sanson. PLOS Computational Biology, 2022. A model that explicitly represents the apposed cortices of neighbouring cells and the adhesions between them shows that forces at the junctions alone can drive neighbour exchange, and that the turnover of adhesion molecules controls the friction between cells, which in turn sets the material properties of the tissue as a whole. Preprint: bioRxiv, 2021.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1371/journal.pcbi.1009812",
+    "label": "Adhesion-regulated junction slippage controls cell intercalation dynamics in an Apposed-Cortex Adhesion Model (DOI)",
+    "rect": [
+     0.0693,
+     0.8384,
+     0.3506,
+     0.0816
+    ]
+   },
+   {
+    "href": "https://doi.org/10.1101/2021.04.11.439313",
+    "label": "Preprint on bioRxiv, 2021",
+    "rect": [
+     0.46,
+     0.8384,
+     0.323,
+     0.0816
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-papers-02-p"
+ },
+ "detail-papers-02-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Adhesion-regulated junction slippage controls cell intercalation dynamics in an Apposed-Cortex Adhesion Model. Alexander Nestor-Bergmann, Guy B. Blanchard, Nathan Hervieux, Alexander G. Fletcher, Jocelyn Étienne, Bénédicte Sanson. PLOS Computational Biology, 2022. A model that explicitly represents the apposed cortices of neighbouring cells and the adhesions between them shows that forces at the junctions alone can drive neighbour exchange, and that the turnover of adhesion molecules controls the friction between cells, which in turn sets the material properties of the tissue as a whole. Preprint: bioRxiv, 2021.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1371/journal.pcbi.1009812",
+    "label": "Adhesion-regulated junction slippage controls cell intercalation dynamics in an Apposed-Cortex Adhesion Model (DOI)",
+    "rect": [
+     0.08,
+     0.8689,
+     0.7088,
+     0.0605
+    ]
+   },
+   {
+    "href": "https://doi.org/10.1101/2021.04.11.439313",
+    "label": "Preprint on bioRxiv, 2021",
+    "rect": [
+     0.08,
+     0.9367,
+     0.653,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-papers-03": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Generation of anisotropic strain dysregulates wild-type cell division at the interface between host and oncogenic tissue. Megan Moruzzi, Alexander Nestor-Bergmann, Georgina K. Goddard, Nawseen Tarannum, Keith Brennan, Sarah Woolner. Current Biology, 2021. In frog (Xenopus) embryos, small clusters of cells carrying a cancer-causing form of the Ras gene contract and strain the normal tissue around them, which then divides more often and in altered directions. Preprint: bioRxiv, 2019.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1016/j.cub.2021.05.023",
+    "label": "Generation of anisotropic strain dysregulates wild-type cell division at the interface between host and oncogenic tissue (DOI)",
+    "rect": [
+     0.0693,
+     0.8384,
+     0.323,
+     0.0816
+    ]
+   },
+   {
+    "href": "https://doi.org/10.1101/578146",
+    "label": "Preprint on bioRxiv, 2019",
+    "rect": [
+     0.4324,
+     0.8384,
+     0.2219,
+     0.0816
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-papers-03-p"
+ },
+ "detail-papers-03-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Generation of anisotropic strain dysregulates wild-type cell division at the interface between host and oncogenic tissue. Megan Moruzzi, Alexander Nestor-Bergmann, Georgina K. Goddard, Nawseen Tarannum, Keith Brennan, Sarah Woolner. Current Biology, 2021. In frog (Xenopus) embryos, small clusters of cells carrying a cancer-causing form of the Ras gene contract and strain the normal tissue around them, which then divides more often and in altered directions. Preprint: bioRxiv, 2019.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1016/j.cub.2021.05.023",
+    "label": "Generation of anisotropic strain dysregulates wild-type cell division at the interface between host and oncogenic tissue (DOI)",
+    "rect": [
+     0.08,
+     0.8351,
+     0.653,
+     0.0605
+    ]
+   },
+   {
+    "href": "https://doi.org/10.1101/578146",
+    "label": "Preprint on bioRxiv, 2019",
+    "rect": [
+     0.08,
+     0.9029,
+     0.4484,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-papers-04": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Decoupling the Roles of Cell Shape and Mechanical Stress in Orienting and Cueing Epithelial Mitosis. Alexander Nestor-Bergmann, Georgina A. Stooke-Vaughan, Georgina K. Goddard, Tobias Starborg, Oliver E. Jensen, Sarah Woolner. Cell Reports, 2019. We stretch frog (Xenopus) embryo tissue and use a vertex model to infer the stress in each cell from its shape, which lets us separate the two. The direction a cell divides follows its shape, defined by the corners where three cells meet, while how often cells divide responds to mechanical stress. Preprint: bioRxiv, 2017.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1016/j.celrep.2019.01.102",
+    "label": "Decoupling the Roles of Cell Shape and Mechanical Stress in Orienting and Cueing Epithelial Mitosis (DOI)",
+    "rect": [
+     0.0693,
+     0.8384,
+     0.3506,
+     0.0816
+    ]
+   },
+   {
+    "href": "https://doi.org/10.1101/177592",
+    "label": "Preprint on bioRxiv, 2017",
+    "rect": [
+     0.46,
+     0.8384,
+     0.2219,
+     0.0816
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-papers-04-p"
+ },
+ "detail-papers-04-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Decoupling the Roles of Cell Shape and Mechanical Stress in Orienting and Cueing Epithelial Mitosis. Alexander Nestor-Bergmann, Georgina A. Stooke-Vaughan, Georgina K. Goddard, Tobias Starborg, Oliver E. Jensen, Sarah Woolner. Cell Reports, 2019. We stretch frog (Xenopus) embryo tissue and use a vertex model to infer the stress in each cell from its shape, which lets us separate the two. The direction a cell divides follows its shape, defined by the corners where three cells meet, while how often cells divide responds to mechanical stress. Preprint: bioRxiv, 2017.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1016/j.celrep.2019.01.102",
+    "label": "Decoupling the Roles of Cell Shape and Mechanical Stress in Orienting and Cueing Epithelial Mitosis (DOI)",
+    "rect": [
+     0.08,
+     0.8351,
+     0.7088,
+     0.0605
+    ]
+   },
+   {
+    "href": "https://doi.org/10.1101/177592",
+    "label": "Preprint on bioRxiv, 2017",
+    "rect": [
+     0.08,
+     0.9029,
+     0.4484,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-papers-05": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "The tricellular vertex-specific adhesion molecule Sidekick facilitates polarised cell intercalation during Drosophila axis extension. Tara M. Finegan, Nathan Hervieux, Alexander Nestor-Bergmann, Alexander G. Fletcher, Guy B. Blanchard, Bénédicte Sanson. PLOS Biology, 2019. The adhesion protein Sidekick sits only at the points where three cells meet in fruit-fly epithelia. Without it, cell shapes are abnormal and fewer cells exchange neighbours during axis extension. Our vertex modelling shows how adhesion at these few points can delay neighbour exchange and so change how the whole tissue extends.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1371/journal.pbio.3000522",
+    "label": "The tricellular vertex-specific adhesion molecule Sidekick facilitates polarised cell intercalation during Drosophila axis extension (DOI)",
+    "rect": [
+     0.0693,
+     0.8384,
+     0.3506,
+     0.0816
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-papers-05-p"
+ },
+ "detail-papers-05-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "The tricellular vertex-specific adhesion molecule Sidekick facilitates polarised cell intercalation during Drosophila axis extension. Tara M. Finegan, Nathan Hervieux, Alexander Nestor-Bergmann, Alexander G. Fletcher, Guy B. Blanchard, Bénédicte Sanson. PLOS Biology, 2019. The adhesion protein Sidekick sits only at the points where three cells meet in fruit-fly epithelia. Without it, cell shapes are abnormal and fewer cells exchange neighbours during axis extension. Our vertex modelling shows how adhesion at these few points can delay neighbour exchange and so change how the whole tissue extends.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1371/journal.pbio.3000522",
+    "label": "The tricellular vertex-specific adhesion molecule Sidekick facilitates polarised cell intercalation during Drosophila axis extension (DOI)",
+    "rect": [
+     0.08,
+     0.9106,
+     0.7088,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-papers-06": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "A Mechanosensitive RhoA Pathway that Protects Epithelia against Acute Tensile Stress. Bipul R. Acharya, Alexander Nestor-Bergmann, Xuan Liang, Shafali Gupta, Kinga Duszyc, Estelle Gauquelin, Guillermo A. Gomez, Srikanth Budnar, Philippe Marcq, Oliver E. Jensen, Zev Bryant, Alpha S. Yap. Developmental Cell, 2018. When an epithelium is suddenly put under tension, Myosin VI at cell–cell junctions senses the force and switches on RhoA, which strengthens the junctions, especially where several cells meet, so the sheet holds together.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1016/j.devcel.2018.09.016",
+    "label": "A Mechanosensitive RhoA Pathway that Protects Epithelia against Acute Tensile Stress (DOI)",
+    "rect": [
+     0.0693,
+     0.8384,
+     0.3506,
+     0.0816
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-papers-06-p"
+ },
+ "detail-papers-06-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "A Mechanosensitive RhoA Pathway that Protects Epithelia against Acute Tensile Stress. Bipul R. Acharya, Alexander Nestor-Bergmann, Xuan Liang, Shafali Gupta, Kinga Duszyc, Estelle Gauquelin, Guillermo A. Gomez, Srikanth Budnar, Philippe Marcq, Oliver E. Jensen, Zev Bryant, Alpha S. Yap. Developmental Cell, 2018. When an epithelium is suddenly put under tension, Myosin VI at cell–cell junctions senses the force and switches on RhoA, which strengthens the junctions, especially where several cells meet, so the sheet holds together.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1016/j.devcel.2018.09.016",
+    "label": "A Mechanosensitive RhoA Pathway that Protects Epithelia against Acute Tensile Stress (DOI)",
+    "rect": [
+     0.08,
+     0.9029,
+     0.7088,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-papers-07": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Mechanical characterization of disordered and anisotropic cellular monolayers. Alexander Nestor-Bergmann, Emma Johns, Sarah Woolner, Oliver E. Jensen. Physical Review E, 2018. Starting from a vertex model of individual cells, we derive the emergent mechanical properties of a disordered tissue, such as how it resists stretch and shear. We compare them with stretched frog (Xenopus) tissue, where stretching lines the cells up but stress stays uneven from cell to cell.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1103/PhysRevE.97.052409",
+    "label": "Mechanical characterization of disordered and anisotropic cellular monolayers (DOI)",
+    "rect": [
+     0.0693,
+     0.8384,
+     0.3322,
+     0.0816
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-papers-07-p"
+ },
+ "detail-papers-07-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Mechanical characterization of disordered and anisotropic cellular monolayers. Alexander Nestor-Bergmann, Emma Johns, Sarah Woolner, Oliver E. Jensen. Physical Review E, 2018. Starting from a vertex model of individual cells, we derive the emergent mechanical properties of a disordered tissue, such as how it resists stretch and shear. We compare them with stretched frog (Xenopus) tissue, where stretching lines the cells up but stress stays uneven from cell to cell.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1103/PhysRevE.97.052409",
+    "label": "Mechanical characterization of disordered and anisotropic cellular monolayers (DOI)",
+    "rect": [
+     0.08,
+     0.9029,
+     0.6716,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-papers-08": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Relating cell shape and mechanical stress in a spatially disordered epithelium using a vertex-based model. Alexander Nestor-Bergmann, Georgina Goddard, Sarah Woolner, Oliver E Jensen. Mathematical Medicine and Biology: A Journal of the IMA, 2018. We use a vertex model to infer the magnitude and direction of the stress in each cell purely from its shape in an image, and apply it to images of frog (Xenopus) embryo tissue. Preprint: arXiv, 2016.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1093/imammb/dqx008",
+    "label": "Relating cell shape and mechanical stress in a spatially disordered epithelium using a vertex-based model (DOI)",
+    "rect": [
+     0.0693,
+     0.8384,
+     0.2863,
+     0.0816
+    ]
+   },
+   {
+    "href": "https://arxiv.org/abs/1611.04744",
+    "label": "Preprint on arXiv, 2016",
+    "rect": [
+     0.3956,
+     0.8384,
+     0.2402,
+     0.0816
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-papers-08-p"
+ },
+ "detail-papers-08-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Relating cell shape and mechanical stress in a spatially disordered epithelium using a vertex-based model. Alexander Nestor-Bergmann, Georgina Goddard, Sarah Woolner, Oliver E Jensen. Mathematical Medicine and Biology: A Journal of the IMA, 2018. We use a vertex model to infer the magnitude and direction of the stress in each cell purely from its shape in an image, and apply it to images of frog (Xenopus) embryo tissue. Preprint: arXiv, 2016.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1093/imammb/dqx008",
+    "label": "Relating cell shape and mechanical stress in a spatially disordered epithelium using a vertex-based model (DOI)",
+    "rect": [
+     0.08,
+     0.8351,
+     0.5786,
+     0.0605
+    ]
+   },
+   {
+    "href": "https://arxiv.org/abs/1611.04744",
+    "label": "Preprint on arXiv, 2016",
+    "rect": [
+     0.08,
+     0.9029,
+     0.4856,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-papers-09": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Force and the spindle: Mechanical cues in mitotic spindle orientation. Alexander Nestor-Bergmann, Georgina Goddard, Sarah Woolner. Seminars in Cell & Developmental Biology, 2014. A review of the evidence that mechanical forces help orient the mitotic spindle, and so the direction of cell division, in single cells and in tissues.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1016/j.semcdb.2014.07.008",
+    "label": "Force and the spindle: Mechanical cues in mitotic spindle orientation (DOI)",
+    "rect": [
+     0.0693,
+     0.8384,
+     0.3506,
+     0.0816
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-papers-09-p"
+ },
+ "detail-papers-09-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Force and the spindle: Mechanical cues in mitotic spindle orientation. Alexander Nestor-Bergmann, Georgina Goddard, Sarah Woolner. Seminars in Cell & Developmental Biology, 2014. A review of the evidence that mechanical forces help orient the mitotic spindle, and so the direction of cell division, in single cells and in tissues.",
+  "hotspots": [
+   {
+    "href": "https://doi.org/10.1016/j.semcdb.2014.07.008",
+    "label": "Force and the spindle: Mechanical cues in mitotic spindle orientation (DOI)",
+    "rect": [
+     0.08,
+     0.9029,
+     0.7088,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-papers-10": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Relating cell shape, mechanical stress and cell division in epithelial tissues. PhD thesis, University of Manchester, 2018. Combines vertex-model theory of stress in cells and tissues with stretching experiments on frog (Xenopus) tissue to separate the roles of cell shape and mechanical stress in cell division.",
+  "hotspots": [
+   {
+    "href": "https://research.manchester.ac.uk/en/studentTheses/relating-cell-shape-mechanical-stress-and-cell-division-in-epithe/",
+    "label": "Relating cell shape, mechanical stress and cell division in epithelial tissues (University of Manchester)",
+    "rect": [
+     0.0693,
+     0.8384,
+     0.2494,
+     0.0816
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-papers-10-p"
+ },
+ "detail-papers-10-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Relating cell shape, mechanical stress and cell division in epithelial tissues. PhD thesis, University of Manchester, 2018. Combines vertex-model theory of stress in cells and tissues with stretching experiments on frog (Xenopus) tissue to separate the roles of cell shape and mechanical stress in cell division.",
+  "hotspots": [
+   {
+    "href": "https://research.manchester.ac.uk/en/studentTheses/relating-cell-shape-mechanical-stress-and-cell-division-in-epithe/",
+    "label": "Relating cell shape, mechanical stress and cell division in epithelial tissues (University of Manchester)",
+    "rect": [
+     0.08,
+     0.9029,
+     0.5042,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-talks-1": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Talk: Mechanical Characterisation of Disordered and Anisotropic Cellular Monolayers. British Applied Mathematics Colloquium 2019, University of Bath, April 2019.",
+  "placed": false,
+  "portrait": "detail-talks-1-p"
+ },
+ "detail-talks-1-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Talk: Mechanical Characterisation of Disordered and Anisotropic Cellular Monolayers. British Applied Mathematics Colloquium 2019, University of Bath, April 2019.",
+  "placed": false
+ },
+ "detail-talks-2": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Talk: Stress and Disorder in a Confluent Epithelium. Mathematical Biology programme, Institut Mittag-Leffler, Djursholm, Sweden, November 2018.",
+  "placed": false,
+  "portrait": "detail-talks-2-p"
+ },
+ "detail-talks-2-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Talk: Stress and Disorder in a Confluent Epithelium. Mathematical Biology programme, Institut Mittag-Leffler, Djursholm, Sweden, November 2018.",
+  "placed": false
+ },
+ "detail-talks-3": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Talk: Shape, Stress and Division in Epithelia. University of Queensland, Australia, November 2017.",
+  "placed": false,
+  "portrait": "detail-talks-3-p"
+ },
+ "detail-talks-3-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Talk: Shape, Stress and Division in Epithelia. University of Queensland, Australia, November 2017.",
+  "placed": false
+ },
+ "detail-code-1": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "AI MCP server (agents-mcp-demo): A template Model Context Protocol server that gives an AI agent tools for a small PostgreSQL user database.",
+  "hotspots": [
+   {
+    "href": "https://github.com/Alexander-Nestor-Bergmann/agents-mcp-demo",
+    "label": "agents-mcp-demo on GitHub",
+    "rect": [
+     0.0693,
+     0.8384,
+     0.277,
+     0.0816
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-code-1-p"
+ },
+ "detail-code-1-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "AI MCP server (agents-mcp-demo): A template Model Context Protocol server that gives an AI agent tools for a small PostgreSQL user database.",
+  "hotspots": [
+   {
+    "href": "https://github.com/Alexander-Nestor-Bergmann/agents-mcp-demo",
+    "label": "agents-mcp-demo on GitHub",
+    "rect": [
+     0.08,
+     0.9029,
+     0.56,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-code-2": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "AI research assistant (ai-deep-research-assistant): A proof-of-concept research assistant built with Pydantic AI and LangGraph, in which planning, research and synthesis agents answer questions from web searches with citations.",
+  "hotspots": [
+   {
+    "href": "https://github.com/Alexander-Nestor-Bergmann/ai-deep-research-assistant",
+    "label": "ai-deep-research-assistant on GitHub",
+    "rect": [
+     0.0693,
+     0.8108,
+     0.3333,
+     0.1092
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-code-2-p"
+ },
+ "detail-code-2-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "AI research assistant (ai-deep-research-assistant): A proof-of-concept research assistant built with Pydantic AI and LangGraph, in which planning, research and synthesis agents answer questions from web searches with citations.",
+  "hotspots": [
+   {
+    "href": "https://github.com/Alexander-Nestor-Bergmann/ai-deep-research-assistant",
+    "label": "ai-deep-research-assistant on GitHub",
+    "rect": [
+     0.08,
+     0.9029,
+     0.7646,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-code-3": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Fine-tuned LLM classifier (hugging-face-llm-classifier): A framework for fine-tuning Hugging Face transformer models on text classification, with an example that sorts COVID-19 tweets into five sentiment classes using DistilBERT.",
+  "hotspots": [
+   {
+    "href": "https://github.com/Alexander-Nestor-Bergmann/hugging-face-llm-classifier",
+    "label": "hugging-face-llm-classifier on GitHub",
+    "rect": [
+     0.0693,
+     0.8108,
+     0.3333,
+     0.1092
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-code-3-p"
+ },
+ "detail-code-3-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Fine-tuned LLM classifier (hugging-face-llm-classifier): A framework for fine-tuning Hugging Face transformer models on text classification, with an example that sorts COVID-19 tweets into five sentiment classes using DistilBERT.",
+  "hotspots": [
+   {
+    "href": "https://github.com/Alexander-Nestor-Bergmann/hugging-face-llm-classifier",
+    "label": "hugging-face-llm-classifier on GitHub",
+    "rect": [
+     0.08,
+     0.9029,
+     0.7832,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-code-4": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Transformer from scratch (pytorch-transformer-demo): A from-scratch PyTorch implementation of the transformer from \"Attention Is All You Need\", written up as a tutorial with unit tests.",
+  "hotspots": [
+   {
+    "href": "https://github.com/Alexander-Nestor-Bergmann/pytorch-transformer-demo",
+    "label": "pytorch-transformer-demo on GitHub",
+    "rect": [
+     0.0693,
+     0.8108,
+     0.3333,
+     0.1092
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-code-4-p"
+ },
+ "detail-code-4-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Transformer from scratch (pytorch-transformer-demo): A from-scratch PyTorch implementation of the transformer from \"Attention Is All You Need\", written up as a tutorial with unit tests.",
+  "hotspots": [
+   {
+    "href": "https://github.com/Alexander-Nestor-Bergmann/pytorch-transformer-demo",
+    "label": "pytorch-transformer-demo on GitHub",
+    "rect": [
+     0.08,
+     0.9029,
+     0.7274,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ },
+ "detail-code-5": {
+  "w": 1500,
+  "h": 1000,
+  "kind": "paper",
+  "alt": "Cell mechanics model (appcom): A Python implementation of the Apposed-Cortex Adhesion Model of an epithelium, in which each cell's cortex is an active elastic rod and springs stand for the adhesions between neighbouring cells. Development has moved to a repository at Université Grenoble Alpes.",
+  "hotspots": [
+   {
+    "href": "https://github.com/Alexander-Nestor-Bergmann/appcom",
+    "label": "appcom on GitHub",
+    "rect": [
+     0.0693,
+     0.8384,
+     0.1943,
+     0.0816
+    ]
+   }
+  ],
+  "placed": false,
+  "portrait": "detail-code-5-p"
+ },
+ "detail-code-5-p": {
+  "w": 1000,
+  "h": 1640,
+  "kind": "paper",
+  "alt": "Cell mechanics model (appcom): A Python implementation of the Apposed-Cortex Adhesion Model of an epithelium, in which each cell's cortex is an active elastic rod and springs stand for the adhesions between neighbouring cells. Development has moved to a repository at Université Grenoble Alpes.",
+  "hotspots": [
+   {
+    "href": "https://github.com/Alexander-Nestor-Bergmann/appcom",
+    "label": "appcom on GitHub",
+    "rect": [
+     0.08,
+     0.9029,
+     0.3926,
+     0.0605
+    ]
+   }
+  ],
+  "placed": false
+ }
+}
